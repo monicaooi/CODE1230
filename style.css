@@ -11,3 +11,10 @@ border-width: 10px;
 border-color: #CD5CDC;
 }
 
+center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
