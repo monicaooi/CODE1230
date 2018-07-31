@@ -6,10 +6,11 @@ font-size:24px;
 }
 
 h1 {
-border-style: solid;
-border-width: 10px;
-border-color: #CD5CDC;
+border-style: ridge;
+border-width: 7px ;
+border-color: #85CAFF;
 }
+
 
 center {
     display: block;
